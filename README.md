@@ -1,1 +1,1 @@
-# telegram_training_bot
+# Telegram training bot
